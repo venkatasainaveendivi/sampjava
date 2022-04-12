@@ -5,7 +5,8 @@ public static void main(String[] args)
 int x = 100;
 if(x % 3 == 0)
 {
-
+for(i=0;i<=10;i++)
+{}
 System.out.println("even number");
 }
 else
