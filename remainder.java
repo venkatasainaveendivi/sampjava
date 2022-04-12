@@ -11,6 +11,14 @@ System.out.println("even number");
 else
 {
 System.out.println("odd number");
+if(x%2!=0)
+{
+
+System.out.println("odd");
+}
+else
+{
+System.out.println("even");
 }
 }
 }
